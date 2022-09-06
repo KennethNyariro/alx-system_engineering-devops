@@ -1,1 +1,1 @@
-This script will print confused smiley
+This command will print user database
