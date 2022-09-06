@@ -4,3 +4,4 @@ duplicates last line
 Deletes files
 Shows directories
 Sorts and prints
+prints sorted
