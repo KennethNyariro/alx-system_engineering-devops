@@ -5,3 +5,4 @@ Deletes files
 Shows directories
 Sorts and prints
 prints sorted
+Prints bin words
