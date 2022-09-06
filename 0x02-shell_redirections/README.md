@@ -4,3 +4,4 @@ Displys the contents of passwd
 Displays the contents of passwd and hosts
 Displays the last 10 lines
 Dilays the first 10 lines
+Creates a file with best school written inside
