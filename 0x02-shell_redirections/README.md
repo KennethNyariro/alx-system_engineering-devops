@@ -1,5 +1,6 @@
-Prints “Hello, World”, followed by a new line to the standard output.
-Prints a confused smiley "(Ôo)'.
-Prints user passwd
-Displays user passwd and hosts
+Prints Hello World
+Prints a smiley
+Displys the contents of passwd
+Displays the contents of passwd and hosts
 Displays the last 10 lines
+Dilays the first 10 lines
