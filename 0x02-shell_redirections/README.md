@@ -8,3 +8,4 @@ prints sorted
 Prints bin words
 Removes c and C
 Reverses
+Prints them all
