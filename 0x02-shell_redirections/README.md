@@ -10,3 +10,4 @@ Removes c and C
 Reverses
 Prints them all
 Acrostic poem
+Direct
