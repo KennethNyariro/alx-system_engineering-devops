@@ -9,4 +9,4 @@ Prints bin words
 Removes c and C
 Reverses
 Prints them all
- FAcrostic poem
+Acrostic poem
