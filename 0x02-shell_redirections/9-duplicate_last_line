@@ -1,2 +1,2 @@
 #!/bin/bash
-tail --lines=1 icanta >> icanta
+tail -n 1 icanta >> icanta
