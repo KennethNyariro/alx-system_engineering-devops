@@ -6,3 +6,4 @@ Shows directories
 Sorts and prints
 prints sorted
 Prints bin words
+Removes c and C
