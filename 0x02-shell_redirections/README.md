@@ -1,2 +1,2 @@
 #!/bin/bash
-Web servers
+Script prints a list of web servers
